@@ -1,0 +1,13 @@
+# Company Knowledge Base
+
+**Company History**
+The company was founded in 2015 by a team of AI researchers. We started as a small consultancy before pivoting to product development in 2018.
+
+**Core Products**
+Our flagship product is "Project Orion", an advanced data analytics platform that uses machine learning to predict market trends. We also offer "Project Sirius", a cloud-based secure storage solution.
+
+**Values & Culture**
+We believe in open-source collaboration, continuous learning, and work-life balance. We host annual hackathons and encourage employees to spend 10% of their time on innovative side projects.
+
+**Facility Information**
+Our headquarters is located at 123 Tech Avenue, Silicon Valley. The building has a cafeteria on the 2nd floor, gym on the 3rd floor, and the server rooms are in the basement. Access to the server rooms requires Level 3 security clearance.

@@ -1,0 +1,22 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Alice Smith",
+            "department": "Engineering",
+            "role": "Software Engineer"
+        },
+        {
+            "id": 2,
+            "name": "Bob Jones",
+            "department": "Finance",
+            "role": "Accountant"
+        },
+        {
+            "id": 3,
+            "name": "Charlie Davis",
+            "department": "HR",
+            "role": "HR Manager"
+        }
+    ]
+}
